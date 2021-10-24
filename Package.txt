@@ -1,0 +1,22 @@
+Explanation of the Options
+
+[00 Maid's Assorted Icon Design - Default Clean Icons (Required)]
+Main Module, has Clean Icons without Indicators (Like the Rad symbol on meds).
+For Vanilla.
+
+[01 EFTMO Patch]
+Patch for EFTMO, requires the Main Module.
+
+[02 Clean Icons - Indicators]
+Clean Icons like Vanilla but with added Indicators.
+Works for EFTMO and Vanilla.
+
+[02 Worn Icons - Indicators]
+Worn ish Icons with added Indicators
+Works for EFTMO and Vanilla.
+
+[02 Worn Icons - No Indicators]
+Worn ish Icons without Indicators.
+Works for EFTMO and Vanilla.
+
+• Note: Choose only one of the [02...] Modules.
