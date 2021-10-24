@@ -26,8 +26,8 @@ Note that these icons will match better with UI's like Modern UI or the updated 
 
  CHANGELOG
  
-v1.0 [22-10-2021] : Initial Release
-v1.01 [23-10-2021] : Indicators for EFTMO and the single Vanilla med that has one
+v1.0 [22-10-2021] : Initial Release.
+v1.01 [23-10-2021] : Indicators for EFTMO and the single Vanilla med that has one.
 ... Worn Icons to come ...
 
  CREDITS
